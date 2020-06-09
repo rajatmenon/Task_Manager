@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="not_a_member_sign_up_here">Not a member? SIGN UP here !</string>
+    <string name="sign_in">sign in</string>
+    <string name="pass">******</string>
+    <string name="todo">TODO</string>
+</resources>
